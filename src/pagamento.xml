@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venda moeda="dolar" xsd:noNamespaceSchemaLocation="validacao.xsd"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+	<formaDePagamento>Débito</formaDePagamento>
+	<produtos>
+		<produto>
+			<nome>Viagem para Las Vegas</nome>
+			<preco>3000</preco>
+		</produto>
+		<produto>
+			<nome>Livro de Orientação a Objetos em Java</nome>
+			<preco>10000</preco>
+		</produto>
+	</produtos>
+</venda>
